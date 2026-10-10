@@ -1,4 +1,5 @@
 // Solution for ACMOJ 1073
+// dummy change to trigger recompilation
 
 #include <iostream>
 using namespace std;
