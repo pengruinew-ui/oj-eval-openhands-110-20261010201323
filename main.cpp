@@ -1,3 +1,5 @@
+// Solution for ACMOJ 1073
+
 #include <iostream>
 using namespace std;
 
